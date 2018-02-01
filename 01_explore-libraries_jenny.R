@@ -1,6 +1,9 @@
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
+## line added from browser
+
+
 #' Which libraries does R search for packages?
 .libPaths()
 
